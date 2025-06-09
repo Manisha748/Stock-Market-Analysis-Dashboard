@@ -1,3 +1,4 @@
+
 # Ethereum Price Tracker with Airflow & Excel Dashboard
 
 This project automates the daily extraction, transformation, and loading (ETL) of Ethereum (ETH) cryptocurrency price data using Apache Airflow, and visualizes the data dynamically in an Excel dashboard using candlestick charts and other analytics.
@@ -127,9 +128,8 @@ Dynamic Excel dashboard that loads data from eth_data.csv using Power Query.
  Use Case: If a stock price is consistently rising, it might indicate a good investment opportunity.
 
 
-![Image](https://github.com/user-attachments/assets/b69bad9c-5e80-4719-bade-32a7c72d2d04)
+<img src="https://github.com/user-attachments/assets/b69bad9c-5e80-4719-bade-32a7c72d2d04" alt="Chart" width="600"/>
 
- 
 
 
 
@@ -199,6 +199,9 @@ Helps traders time their entry and exit in the market.
  
 
 
+<img src="https://github.com/user-attachments/assets/b69bad9c-5e80-4719-bade-32a7c72d2d04" alt="Chart" width="600"/>
+
+
 ---
 
 ### Impact
@@ -208,5 +211,9 @@ Helps traders time their entry and exit in the market.
  Businesses – Analyzes stock market performance for financial planning.
  Researchers – Studies stock price movements to develop market strategies.
 
+
+
+
+  
 
 
