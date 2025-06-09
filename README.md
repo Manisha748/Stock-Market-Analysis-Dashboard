@@ -207,8 +207,11 @@ Helps traders time their entry and exit in the market.
 ### Impact
 
  Investors – Helps in long-term investment planning.
+
  Traders – Identifies buy/sell signals for short-term profits.
+
  Businesses – Analyzes stock market performance for financial planning.
+ 
  Researchers – Studies stock price movements to develop market strategies.
 
 
