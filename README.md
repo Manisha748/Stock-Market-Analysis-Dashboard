@@ -128,7 +128,7 @@ Dynamic Excel dashboard that loads data from eth_data.csv using Power Query.
  Use Case: If a stock price is consistently rising, it might indicate a good investment opportunity.
 
 
-<img src="https://github.com/user-attachments/assets/b69bad9c-5e80-4719-bade-32a7c72d2d04" alt="Chart" width="600"/>
+<img src="https://github.com/user-attachments/assets/39c260a6-aca9-4319-acca-2dbb71e1c8a9" alt="Chart" width="600"/>
 
 
 
@@ -199,7 +199,7 @@ Helps traders time their entry and exit in the market.
  
 
 
-<img src="https://github.com/user-attachments/assets/b69bad9c-5e80-4719-bade-32a7c72d2d04" alt="Chart" width="600"/>
+<img src="https://github.com/user-attachments/assets/a08fe748-76c0-42f9-801a-c76efb9ba2aa" alt="Chart" width="600"/>
 
 
 ---
